@@ -1,0 +1,6 @@
+{
+  "name": "IrrigaPlan - Gestion d'Irrigation",
+  "description": "Application de gestion d'horaires d'ouverture et de fermeture d'irrigation basée sur les débits d'eau pour les agriculteurs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
